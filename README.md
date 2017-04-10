@@ -1,6 +1,8 @@
 # OpenGL-A-Star-Algorithm-Maze
 A mini game OpenGL application to demonstrate the use of the A* Search/Pathfinding Algorithm
 
+Demonstration video can be found on YouTube: https://youtu.be/pH1JGNKm2QE
+
 Controls:
 
 Up - Move Forward
