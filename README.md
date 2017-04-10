@@ -28,3 +28,5 @@ There are two AI opponents that are trying to chase you.
 Red Opponent - quick but unless it has a direct line of sight to the player it will slowly wander.
 Green Opponent - slower but will always be heading toward the player.
 Also try not to use the Zooming while playing, I have only put that in so that you can better see the pathfinding
+
+NOTE: Can only be ran in x86/Win32 configuration
