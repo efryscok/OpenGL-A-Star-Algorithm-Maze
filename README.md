@@ -22,6 +22,8 @@ Enter - Reset Zoom
 I-D-K-F-A - Press these keys in order to jump onto the walls of the maze
           - These must all be pressed within 3 seconds
           - Once the cheat code is entered you will have another 3 seconds to reach the wall
+          
+Escape - Quit
 
 Instructions:
 
