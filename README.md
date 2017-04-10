@@ -4,12 +4,17 @@ A mini game OpenGL application to demonstrate the use of the A* Search/Pathfindi
 Controls:
 
 Up - Move Forward
+
 Down - Move Backward
+
 Left - Turn 90 Degrees Left
+
 Right - Turn 90 Degrees Right
 
 1 - Zoom In
+
 2 - Zoom Out
+
 Enter - Reset Zoom
 
 I-D-K-F-A - Press these keys in order to jump onto the walls of the maze
